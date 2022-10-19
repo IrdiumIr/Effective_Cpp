@@ -1,4 +1,2 @@
-# EffectiveCpp
-my_notes_for_effective_c++
-
-*ONE DAY, ONE ITEM*
+# Effective C++
+notes for reading Effective C++
